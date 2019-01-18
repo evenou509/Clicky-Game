@@ -16,77 +16,78 @@ const charsArray = arr => (
 const initialChars = [
     {
         name: 'Kaka',
-        img: 'img/Players/kaka.jpg',
+        img: '/img/Players/kaka.jpg',
         clicked: false
     },
+    
     {
         name: 'Aguero',
-        img: 'img/Players/Aguero.jpg',
+        img: './/img/Players/Aguero.jpg',
         clicked: false
     },
     {
         name: 'Alexis Sanches',
-        img: 'img/Players/alexis_sanchez.jpg',
+        img: '/img/Players/alexis_sanchez.jpg',
         clicked: false
     },
     {
         name: 'David Beckham',
-        img: 'img/Players/David-Beckham.jpg',
+        img: '/img/Players/David-Beckham.jpg',
         clicked: false
     },
     {
         name: 'Kane',
-        img: 'img/Players/Kane.jpg',
+        img: '/img/Players/Kane.jpg',
         clicked: false
     },
     {
         name: 'Kevin Debruyne',
-        img: 'img/Players/kevin-de-bruyne.jpg',
+        img: '/img/Players/kevin-de-bruyne.jpg',
         clicked: false
     },
     {
         name: 'Kylian Mbappe',
-        img: 'img/Players/Mbappe.jpg',
+        img: '/img/Players/Mbappe.jpg',
         clicked: false
     },
     {
         name: 'Lion Messi',
-        img: 'img/Players/Messi.jpg',
+        img: '/img/Players/Messi.jpg',
         clicked: false
     },
     {
         name: 'Mohamed Salah',
-        img: 'img/Players/mohamed-salah.jpg',
+        img: '/img/Players/mohamed-salah.jpg',
         clicked: false
     },
     {
         name: 'Neymar Jr',
-        img: 'img/Players/Neymar.jpg',
+        img: '/img/Players/Neymar.jpg',
         clicked: false
     },
     {
         name: 'Christian Pulisic',
-        img: 'img/Players/Pulisic.jpg',
+        img: '/img/Players/Pulisic.jpg',
         clicked: false
     },
     {
         name: 'Ronaldinho',
-        img: 'img/Players/Ronaldinho.jpg',
+        img: '/img/Players/Ronaldinho.jpg',
         clicked: false
     },
     {
         name: 'Chirstino Ronaldo',
-        img: 'img/Players/Ronaldo.jpg',
+        img: '/img/Players/Ronaldo.jpg',
         clicked: false
     },
     {
         name: 'Lui Suarez',
-        img: 'img/Players/Suarez.jpg',
+        img: '/img/Players/Suarez.jpg',
         clicked: false
     },
     {
         name: 'Zinedine Zidane',
-        img: 'img/Players/Zidane.jpg',
+        img: '/img/Players/Zidane.jpg',
         clicked: false
     },
 ]
