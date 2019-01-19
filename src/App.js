@@ -15,7 +15,7 @@ class App extends Component {
         <Header />
         <Board />
         <Footer />
-      </div>
+        </div>
     );
   }
 }
