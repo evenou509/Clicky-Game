@@ -1,5 +1,6 @@
 body {
-    background: url('/img/Players/bg-main.jpg');
+    /* background: url('/img/Players/bg-main.jpg'); */
+    background-color: blue;
     background-repeat: no-repeat;
     background-size: cover;
 }
