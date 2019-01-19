@@ -9,7 +9,7 @@
     "react-scripts": "2.1.3",
     "react-transition-group": "^2.5.3"
   },
-  "homepage": "https://evenou509.github.io/Clicky-Game",
+  "homepage": "https://evenou509.github.io/Clicky-Game/",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
