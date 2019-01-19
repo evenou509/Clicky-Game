@@ -22,7 +22,7 @@ const initialChars = [
     
     {
         name: 'Aguero',
-        img: './/img/Players/Aguero.jpg',
+        img: '/img/Players/Aguero.jpg',
         clicked: false
     },
     {
